@@ -48,6 +48,7 @@ export default defineUserConfig({
                     { text: '指南', link: '/guide/' },
                     { text: '所有功能', link: '/modules/' },
                     { text: '所有选项', link: '/options/' },
+                    { text: '路径点', link: '/waypoint/' },
                 ],
                 // page meta
                 editLinkText: '在 GitHub 上编辑此页',

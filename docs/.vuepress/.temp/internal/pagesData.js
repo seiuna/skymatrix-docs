@@ -9,6 +9,8 @@ export const pagesData = {
   "v-9ab698fe": () => import(/* webpackChunkName: "v-9ab698fe" */"D:/minecraftmod/skymatrixdocument/docs/.vuepress/.temp/pages/modules/index.html.js").then(({ data }) => data),
   // path: /options/
   "v-5c19916c": () => import(/* webpackChunkName: "v-5c19916c" */"D:/minecraftmod/skymatrixdocument/docs/.vuepress/.temp/pages/options/index.html.js").then(({ data }) => data),
+  // path: /waypoint/
+  "v-0cd44d75": () => import(/* webpackChunkName: "v-0cd44d75" */"D:/minecraftmod/skymatrixdocument/docs/.vuepress/.temp/pages/waypoint/index.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"D:/minecraftmod/skymatrixdocument/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
 }

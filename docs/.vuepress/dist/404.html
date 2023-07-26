@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.66">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    <title>VuePress</title><meta name="description" content="">
+    <link rel="preload" href="/assets/style-8a38cc2d.css" as="style"><link rel="stylesheet" href="/assets/style-8a38cc2d.css">
+    <link rel="modulepreload" href="/assets/app-1ecae32b.js"><link rel="modulepreload" href="/assets/404.html-f9875e7b.js"><link rel="modulepreload" href="/assets/404.html-25451bfd.js"><link rel="prefetch" href="/assets/q.html-25f45b29.js" as="script"><link rel="prefetch" href="/assets/index.html-b4543a2a.js" as="script"><link rel="prefetch" href="/assets/FarmingHelper.html-3ba19981.js" as="script"><link rel="prefetch" href="/assets/index.html-cc3b91d1.js" as="script"><link rel="prefetch" href="/assets/index.html-0bf95b02.js" as="script"><link rel="prefetch" href="/assets/q.html-120cb08f.js" as="script"><link rel="prefetch" href="/assets/index.html-d5427bdc.js" as="script"><link rel="prefetch" href="/assets/FarmingHelper.html-362c2326.js" as="script"><link rel="prefetch" href="/assets/index.html-ece721be.js" as="script"><link rel="prefetch" href="/assets/index.html-2059563c.js" as="script">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="theme-container"><main class="page"><div class="theme-default-content"><h1>404</h1><blockquote>我们怎么到这来了？</blockquote><a href="/" class="">返回首页</a></div></main></div><!----><!--]--></div>
+    <script type="module" src="/assets/app-1ecae32b.js" defer></script>
+  </body>
+</html>

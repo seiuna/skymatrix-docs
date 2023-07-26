@@ -1,0 +1,1 @@
+export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"\",\"description\":\"\",\"head\":[],\"locales\":{\"/\":{\"lang\":\"zh-CN\",\"title\":\"VuePress\",\"description\":\"\"},\"/en/\":{\"lang\":\"en-US\",\"title\":\"VuePress\",\"description\":\"Vue-powered Static Site Generator\"}}}")

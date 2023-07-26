@@ -16,6 +16,7 @@ export default defineUserConfig({
         },
     },
     theme: defaultTheme({
+
         sidebar:{
             '/guide/': [
                 '/guide/', // 默认显示指南的 README.md 或 index.md
@@ -30,18 +31,13 @@ export default defineUserConfig({
                 '/options/',
             ],
         },
-        repo: 'seiuna/skymatrix-document',
-        logo: '/images/hero.png',
+        repo: 'seiuna/skymatrix-docs',
         docsDir: 'docs',
         locales: {
             '/en': {
                 editLinkText: 'Edit this page on GitHub',
-
             },
 
-            /**
-             * Chinese locale config
-             */
             '/': {
 
                 // navbar

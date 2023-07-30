@@ -5,6 +5,7 @@ title: 快速上手
 ---
 # 快速上手
 ## 依赖环境
+- [Java20](https://openjdk.org/install/)
 - [Fabric](https://fabricmc.net/)
 - [Minecraft 1.20+](https://www.minecraft.net/)
 - [Baritone Api](https://github.com/cabaletta/baritone/)

@@ -37,7 +37,7 @@ title: FarmingHelper
 逃逸方式 
 
 可选值
-
+<iframe src="//player.bilibili.com/player.html?aid=913874721&bvid=BV16M4y1p7qK&cid=1209506102&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 **fov** 当你的视角发生变化 
 
 **location** 当你的位置发生变化

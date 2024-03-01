@@ -1,6 +1,7 @@
 <template><div><h1 id="快速上手" tabindex="-1"><a class="header-anchor" href="#快速上手" aria-hidden="true">#</a> 快速上手</h1>
 <h2 id="依赖环境" tabindex="-1"><a class="header-anchor" href="#依赖环境" aria-hidden="true">#</a> 依赖环境</h2>
 <ul>
+<li><a href="https://openjdk.org/install/" target="_blank" rel="noopener noreferrer">Java20<ExternalLinkIcon/></a></li>
 <li><a href="https://fabricmc.net/" target="_blank" rel="noopener noreferrer">Fabric<ExternalLinkIcon/></a></li>
 <li><a href="https://www.minecraft.net/" target="_blank" rel="noopener noreferrer">Minecraft 1.20+<ExternalLinkIcon/></a></li>
 <li><a href="https://github.com/cabaletta/baritone/" target="_blank" rel="noopener noreferrer">Baritone Api<ExternalLinkIcon/></a></li>
@@ -33,10 +34,17 @@
 <p>你可以在qq 群 849749832 或者 <a href="https://github.com/seiuna/skymatrix" target="_blank" rel="noopener noreferrer">GitHub Seiuna/SkyMatrix<ExternalLinkIcon/></a> 下载到最新版本的SkyMatrix模组。</p>
 <h4 id="_2-安装-skymatrix" tabindex="-1"><a class="header-anchor" href="#_2-安装-skymatrix" aria-hidden="true">#</a> 2. 安装 SkyMatrix</h4>
 <p>将下载好的文件 SkyMatrix-xxxx.jar 添加到/.minecraft/mods 即可。</p>
+<h2 id="如何使用skymatrix" tabindex="-1"><a class="header-anchor" href="#如何使用skymatrix" aria-hidden="true">#</a> 如何使用skymatrix？</h2>
+<h3 id="如何打开clickgui" tabindex="-1"><a class="header-anchor" href="#如何打开clickgui" aria-hidden="true">#</a> 如何打开ClickGui?</h3>
+<p>右 CTRL</p>
+<h3 id="如何绑定快捷键" tabindex="-1"><a class="header-anchor" href="#如何绑定快捷键" aria-hidden="true">#</a> 如何绑定快捷键?</h3>
+<p>按住左SHIFT在ClickGui中点击功能</p>
+<h3 id="遇到不理解的功能选项怎么办" tabindex="-1"><a class="header-anchor" href="#遇到不理解的功能选项怎么办" aria-hidden="true">#</a> 遇到不理解的功能选项怎么办?</h3>
+<p>按住SHIFT在ClickGui中右键功能选项即可跳转到对应的帮助文档</p>
 <h2 id="推荐模组" tabindex="-1"><a class="header-anchor" href="#推荐模组" aria-hidden="true">#</a> 推荐模组</h2>
 <div class="custom-container tip"><p class="custom-container-title">提示</p>
-<p>如果你是第一次玩高版本的Minecraft，又或是第一次使用Fabric。
-<strong>下方的模组推荐使用</strong>。</p>
+<p>如果你是第一次玩高版本的Minecraft，又或是第一次使用Fabric。</p>
+<p><strong>下方的模组推荐使用</strong>。</p>
 </div>
 <ul>
 <li><a href="https://modrinth.com/mod/iris" target="_blank" rel="noopener noreferrer">Iris Shaders<ExternalLinkIcon/></a></li>

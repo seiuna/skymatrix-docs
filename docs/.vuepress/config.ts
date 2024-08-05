@@ -1,7 +1,6 @@
 import {defaultTheme, defineUserConfig} from 'vuepress'
 
 export default defineUserConfig({
-
     locales: {
         '/': {
             lang: 'zh-CN',
@@ -21,7 +20,6 @@ export default defineUserConfig({
             '/guide/': [
                 '/guide/', // 默认显示指南的 README.md 或 index.md
                 'q/', // 显示 docs/guide/introduction.md
-
             ],
             '/modules/': [
                 '/modules/',
